@@ -11,5 +11,6 @@ PostgreSQL, MySQL, Python, pandas, matplotlib, seaborn, SciPy, R, Tableau
 
 Contacts:
 https://www.linkedin.com/in/olgasavitskaya
+
 t.me/Olga_Savitskaya
 
