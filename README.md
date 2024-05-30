@@ -7,6 +7,7 @@ I recently finished Yandex.Practicum Data Analytics courses.
 Looking for a new opportunity in Data Analysis .
 
 Skills:
+
 PostgreSQL, MySQL, Python, pandas, matplotlib, seaborn, SciPy, R, Tableau
 
 Contacts:
