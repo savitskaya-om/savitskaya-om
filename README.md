@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, my name is Olga Savitskaya.
 
-<!--
-**savitskaya-om/savitskaya-om** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working at Sber in Finance department with a strong focus to automation of manual processes.
 
-Here are some ideas to get you started:
+I recently finished Yandex.Practicum Data Analytics courses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for a new opportunity in Data Analysis .
+
+Skills:
+PostgreSQL, MySQL, Python, pandas, matplotlib, seaborn, SciPy, R, Tableau
+
+Contacts:
+https://www.linkedin.com/in/olgasavitskaya
+t.me/Olga_Savitskaya
+
